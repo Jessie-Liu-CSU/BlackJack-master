@@ -12,3 +12,12 @@
 4. hit() => 玩家继续要牌，则可以调用这个函数。
 5. stand() => 玩家不再要牌了，这个函数就会计算游戏结果。
 6. 以上函数是我已经写在contract里，我觉得必须的函数。如果在前端调用的时候，有别的需求可以再加。
+
+## Front-end Design
+1. 前端的所有文件都在“client”文件夹里。
+2. 前端只需要继续修改App.js就可以了。
+3. “runExample”之前将React和Contract连接起来的部分已完成，不再需要修改。
+4. “runExample”之后要用的是“blackJackContract”。
+5. App.js中需要修改的是“runExample”和“render”中的内容。
+
+# Good Luck！！
