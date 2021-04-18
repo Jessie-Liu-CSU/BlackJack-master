@@ -1,4 +1,8 @@
 # BlackJack
+运行方式
+1. 如果没有修改contracts，请直接看3。要是修改了contracts，请看2和3.
+2. 现在“BlackJack-master”文件夹的终端运行 "truffle migrate --reset"(如果是第一次部署请用“truffle migrate”), 再运行 "truffle test"。
+3. 在“BlackJack-master/client”文件夹的终端运行 "npm run start"。
 
 ## Back_end Contract Progress
 1. All contract methods have been finished.
