@@ -6,7 +6,7 @@
 
 ## Back_end Contract Progress
 1. All contract methods have been finished.
-2. All methods are stored in "contracts/BlackJack.sol". There are a little commits, I think it can be easily read, but if you have any questions, please contact me.
+2. All methods are stored in "BlackJack-master/contracts/BlackJack.sol". There are a little commits, I think it can be easily read, but if you have any questions, please contact me.
 3. Contract code is from “https://github.com/JayOfemi/BlackJack” that is written by Jay Ofemi on 06/23/2018.
 
 ## 后端contract说明(前端会用到的)
@@ -18,10 +18,10 @@
 6. 以上函数是我已经写在contract里，我觉得必须的函数。如果在前端调用的时候，有别的需求可以再加。
 
 ## Front-end Design
-1. 前端的所有文件都在“client”文件夹里。
-2. 前端只需要继续修改App.js就可以了。
+1. 前端的所有文件都在“BlackJack-master/client”文件夹里。
+2. 前端只需要继续修改“BlackJack-master/client/src/App.js”就可以了。
 3. “runExample”之前将React和Contract连接起来的部分已完成，不再需要修改。
 4. “runExample”之后要用的是“blackJackContract”。
-5. App.js中需要修改的是“runExample”和“render”中的内容。
+5. “BlackJack-master/client/src/App.js”中需要修改的是“runExample”和“render”中的内容。
 
 # Good Luck！！
